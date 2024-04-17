@@ -1,0 +1,35 @@
+
+.header{
+    font-size: 2rem;
+    display: flex;
+    margin-right: 1vw;
+    
+}
+
+.game-icon{
+    height: 2rem;
+    width: 2rem;
+    
+}
+
+.win-icon{
+    height: 2rem;
+    width: 2rem;
+    
+}
+
+.equal-icon{
+    height: 2rem;
+    width: 2rem;
+}
+
+.header-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
